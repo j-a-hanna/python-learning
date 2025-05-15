@@ -2,11 +2,7 @@
 
 age = int(input("How old are you? "))
 
-if age < 13:
-    print("You are a child.")
-elif age < 20:
-    print("You are a teenager.")
-elif age < 65:
-    print("You are an adult.")
+if age < 18:
+    print("You're not old enough to vote.")
 else:
-    print("You are royalty.")
+    print("You're old enough to vote.")
