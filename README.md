@@ -17,3 +17,8 @@ Welcome to my repository where I'll be documenting my learning journey in Python
 
 Stay tuned for more!
 
+## License
+
+This project is licensed under the [MIT License](LICENSE).  
+© 2025 Jeanette Attia Hanna
+
